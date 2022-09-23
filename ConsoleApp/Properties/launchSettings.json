@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ConsoleApp": {
+      "commandName": "Project",
+      "commandLineArgs": "\"C:\\Git\\2223\\4xhif\\PROJEKTE-Console\\ConsoleApp-ScanDirs\\ConsoleApp\""
+    }
+  }
+}
